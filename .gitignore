@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage/excel/*.xlsx
+/public/storage/img/*
+/public/storage/document/*
+/public/storage/NPMI_PLC_PROGRAMS/*
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.vscode
+._*
